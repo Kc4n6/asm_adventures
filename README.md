@@ -1,1 +1,3 @@
 # asm_adventures
+
+Just trying to learn basic assembly. And these are my notes...
